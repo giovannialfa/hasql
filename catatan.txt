@@ -1,0 +1,3 @@
+express => rest api in nodejs
+cors 	=> connection FE react dan server
+nodemon => auto run
